@@ -64,12 +64,6 @@ Machine Learning applied to predict yield and supporting the local positioning o
 
 Data pipelines were migrated from a paid tool to Talend Open Studio, resulting in annual savings of approximately 40,000 dollars.
 
-### Outstanding representative of 2021 continuous improvement program - Innovation, Project Management - 03/2022
-
-> Continuous Improvement Program.
-
-Recognition for the work done, standing out in the application of management tools to improve results and disseminate knowledge in the information technology department.
-
 ### Outstanding Final Paper - 05/2019
 
 > Project: Development of a mobile application for managing agricultural spraying in different cultures
