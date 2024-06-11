@@ -1,8 +1,3 @@
----
-layout: template.liquid
-permalink: /
----
-
 # Jose Henrique Roveda
 
 * **Email:** [josehenriqueroveda.dev@gmail.com](mailto:josehenriqueroveda.dev@gmail.com)
