@@ -8,15 +8,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    -webkit-print-color-adjust: exact;
-    display: flex;
-    justify-content: center;
     align-items: center;
-}
-
-main {
-    max-width: 794px;
-    margin: 0;
+    margin: 15px;
 }
 
 code {
@@ -45,8 +38,10 @@ blockquote {
 
 ul {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     list-style: none;
+    align-items: center;
     justify-content: space-between;
 }
 
