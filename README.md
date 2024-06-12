@@ -1,62 +1,74 @@
-# Jose Henrique Roveda
+**Jose Henrique Roveda**
 
-* **Email:** [josehenriqueroveda.dev@gmail.com](mailto:josehenriqueroveda.dev@gmail.com)
-* **Linkedin:** [linkedin.com/in/jhroveda](https://linkedin.com/in/jhroveda)
-* **Github:** [github.com/josehenriqueroveda](https://github.com/josehenriqueroveda)
-* **Phone:** (16) 0 0000-0000
+[josehenriqueroveda.dev@gmail.com](mailto:josehenriqueroveda.dev@gmail.com) - Ribeirão Preto, SP, Brazil
 
-## Skills summary
+<https://linkedin.com/in/jhroveda> - <https://github.com/josehenriqueroveda>
 
-### Data Science and Data Engineering
+**EDUCATION**
 
-Experienced Data Scientist with 4 years of expertise in architecting, developing, and sustaining robust data pipelines. Adept at leveraging machine learning, statistical methodologies, and data analysis to extract actionable insights and drive strategic decision-making. Demonstrated ability to create and deploy predictive models. Committed to staying abreast of the latest advancements in data science and artificial intelligence.
+**USP ESALQ - Universidade de São Paulo**
 
-### Python Developer Skills (Data Science & Engineering)
+_MBA, Data Science and Analytics_, 05/2021 to 11/2022
 
-Proficient in Python programming, with a focus on its applications in data science and data engineering. Familiar with web development frameworks like FastAPI for building APIs that deploy machine learning models or data pipelines as RESTful APIs, facilitating seamless integration with web applications or other systems.
+**FATEC – Faculdade de Tecnologia**
 
-### Soft Skills
+_Technologist, System Analysis and Development_, 01/2016 to 01/2019
 
-Innovative and driven by curiosity. Continually seek to enhance skills and explore new techniques to address data challenges. Persistence and creativity approaches, bring projects to fruition while continuously improving capabilities.
+**UNIFRAN – Universidade de Franca**
 
-## Work History
+_Bachelor, Graphic Design_, 01/2011 to 01/2015
 
-### Senior Data Scientist - Python, SQL - 11/2022 to current <br>LongPing High-Tech
+**WORK EXPERIENCE**
 
-Spearheaded the execution of Data Science projects (machine learning, AI, computer vision) from inception through deployment. Utilized Python and SQL to develop data pipelines, and Apache Airflow for data orchestration. An award-winning project involved creating a machine learning-driven planting simulation model that predicts crop yields (Mean Absolute Error = 0.6 tons/ha), thereby supporting hybrid positioning and decision-making processes. (5 inputs; 1 million simulations; 27 outputs; 3 endpoints)
+**Senior Data Scientist**, 11/2022 to Present
 
-### Data Science & Analytics Trainee - Python, SQL - 11/2020 to 11/2022 <br>LongPing High-Tech
+_LongPing High-Tech_
 
-Recognized for exemplary contributions to continuous improvement initiatives, particularly in applying management tools to enhance results and disseminate knowledge within the IT department. Participated in an ETL migration project to Talend Open Studio arround, achieving annual savings of approximately $40,000. Key responsibilities included data analysis, data mining, data cleaning, Python programming, ETL, SQL, and data visualization using PowerBI.
+Development of more than 60 projects in data science, data engineering and python backend development for the deployment of machine learning models. Innovative and driven by explore new techniques to address data challenges.
 
-### Software Engineer - Flutter, Dart, Java Android, Python - 04/2019 to 10/2020 <br>IZAgro
+**Data Science and Analytics Trainee,** 11/2020 to 11/2022
 
-Led the maintenance and development of new features for an Android mobile application with over 5,000 active users per month. Developed new mobile applications and generated reports based on application analytics data.
+_LongPing High-Tech_
 
-## Achievements and Recognition
+Execution of data analysis, BI, data scrapping and ETL projects. Continuous improvement representative of IT department, applying management tools to enhance results and disseminate knowledge.
 
-### Presidential Award - Data Science, Machine Learning, Data Engineering - 04/2023
+**Software Engineer – Java Android and Python,** 04/2019 to 10/2020
 
-> Project: Planting Simulation and Yield Prediction with Machine Learning.
+_IZAgro_
 
-### Nomination for the best MBA completion work (Score 10) - Data Science, Machine Learning, Python - 11/2022
+Maintenance and development for a mobile application with over 5,000 active users per month. Development of reports based on application analytics data.
 
-> Applied machine learning to predict yield and support maize hybrid positioning in Brazil's Central-West region.
+**LEADERSHIP, ACHIEVEMENTS AND RECOGNITION**
 
-### Efficiency and Innovation Award - ETL, Data Engineering, Talend Open Studio - 08/2022
+**President Award,** 04/2023
 
-> Migrated data pipelines from a paid tool to Talend Open Studio, resulting in annual savings of approximately $40,000.
+_Planting Simulation and Yield Prediction with Machine Learning – LongPing High-Tech_
 
-## Education
+Machine learning-driven planting simulation model (1 million simulations) that predicts crop yields (Mean Absolute Error = 0.6 tons/ha), thereby supporting hybrid positioning and decision-making processes.  
 
-### MBA in Data Science & Analytics - 05/2021 to 11/2022 <br> USP/ESALQ - Universidade de São Paulo
+**Efficiency and Innovation Award,** 08/2022
 
-Specialized in data science, machine learning, Python, data engineering, and data analysis.
+_ETL Migration – LongPing High-Tech_
 
-### Technologist in System Analysis and Development - 01/2016 to 01/2019 <br> FATEC - Faculdade de Tecnologia de Ribeirão Preto
+Migrated data pipelines from a paid tool to Talend Open Studio, resulting in annual savings of $40,000.  
 
-Focused on precision agriculture as an additional subject. Twice awarded for outstanding course completion work and recognized as the best student in Systems Analysis and Development. Project "Development of a Mobile Application for Managing Agricultural Spraying" published in the 18th National Congress of Scientific Initiation.
+**Outstanding Completion Work and Best Academic Performance,** 01/2019
 
-### Bachelor in Graphic Design - 01/2011 to 01/2015 <br> UNIFRAN - Universidade de Franca
+_Development of a Mobile App for Managing Agricultural Spraying – FATEC_
 
-Specialized in web design and graphic interfaces.
+Awarded for best academic performance and by the project published in the 18th National Congress of Scientific Initiation.
+
+**CERTIFICATIONS & SKILLS**
+
+Proficient in python programming, with focus on its applications in data science and data engineering. Familiar with web development frameworks like FastAPI and Flask for building APIs that deploy machine learning models or data pipelines as REST APIs.
+
+Demonstrated ability to create and deploy predictive models; committed to staying abreast of the latest advancements in data science and artificial intelligence.
+
+Experience in machine learning, AI, computer vision, SQL, git, grafana and PowerBI.
+
+Development of 2 python libraries and 1 julia packge:
+
+logze – Downloaded more than 7000 times, helps in monitoring error logs, integrating MongoDB with MS Teams.  
+excel2mssql - Downloaded more than 1300 times, optimize data transfer between Excel files and Microsoft SQL Server database.
+
+CyclicalEncoding.jl – Package in Julia language to encode cyclical values using sine and cosine.
