@@ -4,20 +4,6 @@
 
 <https://linkedin.com/in/jhroveda> - <https://github.com/josehenriqueroveda>
 
-**EDUCATION**
-
-**USP ESALQ - Universidade de São Paulo**
-
-_MBA, Data Science and Analytics_, 05/2021 to 11/2022
-
-**FATEC – Faculdade de Tecnologia**
-
-_Technologist, System Analysis and Development_, 01/2016 to 01/2019
-
-**UNIFRAN – Universidade de Franca**
-
-_Bachelor, Graphic Design_, 01/2011 to 01/2015
-
 **WORK EXPERIENCE**
 
 **Senior Data Scientist**, 11/2022 to Present
@@ -37,6 +23,20 @@ Execution of data analysis, BI, data scrapping and ETL projects. Continuous impr
 _IZAgro_
 
 Maintenance and development for a mobile application with over 5,000 active users per month. Development of reports based on application analytics data.
+
+**EDUCATION**
+
+**USP ESALQ - Universidade de São Paulo**
+
+_MBA, Data Science and Analytics_, 05/2021 to 11/2022
+
+**FATEC – Faculdade de Tecnologia**
+
+_Technologist, System Analysis and Development_, 01/2016 to 01/2019
+
+**UNIFRAN – Universidade de Franca**
+
+_Bachelor, Graphic Design_, 01/2011 to 01/2015
 
 **LEADERSHIP, ACHIEVEMENTS AND RECOGNITION**
 
