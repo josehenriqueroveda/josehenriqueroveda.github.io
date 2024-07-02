@@ -4,21 +4,25 @@
 
 <https://linkedin.com/in/jhroveda> - <https://github.com/josehenriqueroveda>
 
+**SUMMARY**
+
+Looking for opportunities as Data Engineer, Data Scientist, Data Analyst or Python Developer. Remote or sponsored visa.
+
 **WORK EXPERIENCE**
 
 **Senior Data Scientist**, 11/2022 to Present
 
 _LongPing High-Tech_
 
-Development of more than 60 projects in data science, data engineering and python backend development for the deployment of machine learning models. Innovative and driven by explore new techniques to address data challenges.
+Development of more than 60 projects in data science, data engineering and python backend development for the deployment of machine learning models, data pipelines and ETL/ELT. Innovative and driven by explore new techniques to address data challenges.
 
-**Data Science and Analytics Trainee,** 11/2020 to 11/2022
+**Data Engineer and Data Science Trainee**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
 Execution of data analysis, BI, data scrapping and ETL projects. Continuous improvement representative of IT department, applying management tools to enhance results and disseminate knowledge.
 
-**Software Engineer – Java Android and Python,** 04/2019 to 10/2020
+**Software Engineer – Java Android and Python**, 04/2019 to 10/2020
 
 _IZAgro_
 
@@ -50,7 +54,7 @@ Machine learning-driven planting simulation model (1 million simulations) that p
 
 _ETL Migration – LongPing High-Tech_
 
-Migrated data pipelines from a paid tool to Talend Open Studio, resulting in annual savings of $40,000.  
+Data engineering project to migrate data pipelines from a paid tool to Talend Open Studio, resulting in annual savings of $40,000.  
 
 **Outstanding Completion Work and Best Academic Performance,** 01/2019
 
@@ -58,17 +62,18 @@ _Development of a Mobile App for Managing Agricultural Spraying – FATEC_
 
 Awarded for best academic performance and by the project published in the 18th National Congress of Scientific Initiation.
 
-**CERTIFICATIONS & SKILLS**
+**CERTIFICATIONS, COMPETENCIES AND SKILLS**
 
-Proficient in python programming, with focus on its applications in data science and data engineering. Familiar with web development frameworks like FastAPI and Flask for building APIs that deploy machine learning models or data pipelines as REST APIs.
+Proficient in python programming, with focus on its applications in **data science** and **data engineering**. 
 
-Demonstrated ability to create and deploy predictive models; committed to staying abreast of the latest advancements in data science and artificial intelligence.
+Familiar with web development frameworks like FastAPI and Flask for building APIs that deploy machine learning models or data pipelines as REST APIs.
 
-Experience in machine learning, AI, computer vision, SQL, git, grafana and PowerBI.
+Experience in machine learning, ETL, data engineering, SQL, git, grafana and PowerBI.
 
-Development of 2 python libraries and 1 julia packge:
+**Languages**: Fluent in Portuguese; advanced English and basic Spanish.
 
-logze – Downloaded more than 7000 times, helps in monitoring error logs, integrating MongoDB with MS Teams.  
-excel2mssql - Downloaded more than 1300 times, optimize data transfer between Excel files and Microsoft SQL Server database.
+Development of 2 python libraries and 1 julia packge: <br>
+logze – Downloaded more than 7000 times, helps in monitoring error logs, integrating MongoDB with MS Teams. <br>
+excel2mssql - Downloaded more than 1300 times, optimize data transfer between Excel files and Microsoft SQL Server database. <br>
+CyclicalEncoding.jl – Package in Julia language to encode cyclical values using sine and cosine. 
 
-CyclicalEncoding.jl – Package in Julia language to encode cyclical values using sine and cosine.
