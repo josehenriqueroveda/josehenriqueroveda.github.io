@@ -4,11 +4,11 @@
 
 <https://linkedin.com/in/jhroveda> - <https://github.com/josehenriqueroveda>
 
-**SUMMARY**
+### SUMMARY
 
 Looking for opportunities as Data Engineer, Data Scientist, Data Analyst or Python Developer. Remote or sponsored visa.
 
-**WORK EXPERIENCE**
+### WORK EXPERIENCE
 
 **Senior Data Scientist / Engineer**, 11/2022 to Present
 
@@ -28,7 +28,7 @@ _IZAgro_
 
 Maintenance and development for a mobile application with over 5,000 active users per month. Development of reports based on application analytics data.
 
-**EDUCATION**
+### EDUCATION
 
 **USP ESALQ - Universidade de São Paulo**
 
@@ -62,7 +62,7 @@ _Development of a Mobile App for Managing Agricultural Spraying – FATEC_
 
 Awarded for best academic performance and by the project published in the 18th National Congress of Scientific Initiation.
 
-**CERTIFICATIONS, COMPETENCIES AND SKILLS**
+### CERTIFICATIONS, COMPETENCIES AND SKILLS
 
 Proficient in python programming, with focus on its applications in **data science** and **data engineering**. 
 
@@ -76,4 +76,3 @@ Development of 2 python libraries and 1 julia packge: <br>
 logze – Downloaded more than 7000 times, helps in monitoring error logs, integrating MongoDB with MS Teams. <br>
 excel2mssql - Downloaded more than 1300 times, optimize data transfer between Excel files and Microsoft SQL Server database. <br>
 CyclicalEncoding.jl – Package in Julia language to encode cyclical values using sine and cosine. 
-
