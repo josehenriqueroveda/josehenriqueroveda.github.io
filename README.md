@@ -10,7 +10,7 @@ Looking for opportunities as Data Engineer, Data Scientist, Data Analyst or Pyth
 
 **WORK EXPERIENCE**
 
-**Senior Data Scientist**, 11/2022 to Present
+**Senior Data Scientist / Engineer**, 11/2022 to Present
 
 _LongPing High-Tech_
 
