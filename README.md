@@ -64,15 +64,20 @@ Awarded for best academic performance and by the project published in the 18th N
 
 ### CERTIFICATIONS, COMPETENCIES AND SKILLS
 
-Proficient in python programming, with focus on its applications in **data science** and **data engineering**. 
+Proficient in python programming, with focus on its applications in **data engineering** and **data sicence**. 
 
 Familiar with web development frameworks like FastAPI and Flask for building APIs that deploy machine learning models or data pipelines as REST APIs.
 
-Experience in machine learning, ETL, data engineering, SQL, git, grafana and PowerBI.
+Experience in data engineering, data science & analytics, machine learning, Python, SQL, git, and PowerBI.
+Basic knowledge in Azure Cloud and cybersecurity.
 
 **Languages**: Fluent in Portuguese; advanced English and basic Spanish.
 
-Development of 2 python libraries and 1 julia packge: <br>
-logze – Downloaded more than 7000 times, helps in monitoring error logs, integrating MongoDB with MS Teams. <br>
-excel2mssql - Downloaded more than 1300 times, optimize data transfer between Excel files and Microsoft SQL Server database. <br>
-CyclicalEncoding.jl – Package in Julia language to encode cyclical values using sine and cosine. 
+**Certifications**
+- BIFPC - Business Intelligence Foundation Professional Certification
+- LFS116: PyTorch and Deep Learning for Decision Makers
+- LFS112: Ethics in AI and Data Science
+- IC-PYTHON-860 - Python for Cybersecurity Associate
+- SFPC - Scrum Foundation Professional Certification
+- Six Sigma White Belt
+- Six Sigma Yellow Belt
