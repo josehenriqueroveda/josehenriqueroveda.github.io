@@ -6,21 +6,21 @@
 
 ### SUMMARY
 
-Looking for opportunities as Data Engineer, Data Scientist, Data Analyst or Python Developer. Remote or sponsored visa.
+Looking for opportunities as Backend Engineer (Ruby on Rails, Python), Data Engineer, Data Scientist, Data Analyst. Remote or sponsored visa.
 
 ### WORK EXPERIENCE
 
-**Senior Data Scientist / Engineer**, 11/2022 to Present
+**Senior Data Engineer/Scientist**, 11/2022 to Present
 
 _LongPing High-Tech_
 
-Development of more than 60 projects in data science, data engineering and python backend development for the deployment of machine learning models, data pipelines and ETL/ELT. Innovative and driven by explore new techniques to address data challenges.
+Development of more than 60 projects in data science, data engineering, ruby on rails and python backend development for the deployment of machine learning models, data pipelines and ETL/ELT. Innovative and driven by explore new techniques to address data challenges.
 
 **Data Engineer and Data Science Trainee**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
-Execution of data analysis, BI, data scrapping and ETL projects. Continuous improvement representative of IT department, applying management tools to enhance results and disseminate knowledge.
+Execution of data analysis, BI, data scrapping, ETL projects and ruby on rails/python backend development. Continuous improvement representative of IT department, applying management tools to enhance results and disseminate knowledge.
 
 **Software Engineer – Java Android and Python**, 04/2019 to 10/2020
 
@@ -64,20 +64,20 @@ Awarded for best academic performance and by the project published in the 18th N
 
 ### CERTIFICATIONS, COMPETENCIES AND SKILLS
 
-Proficient in python programming, with focus on its applications in **data engineering** and **data sicence**. 
+Solid skills in python and ruby programming, with focus on its applications in **backend**. 
 
-Familiar with web development frameworks like FastAPI and Flask for building APIs that deploy machine learning models or data pipelines as REST APIs.
+Experience with web development frameworks like Ruby on Rails and FastAPI for building REST APIs.
 
-Experience in data engineering, data science & analytics, machine learning, Python, SQL, git, and PowerBI.
-Basic knowledge in Azure Cloud and cybersecurity.
+Experience in data engineering, data science & analytics, machine learning, SQL, git, and PowerBI.
+Basic knowledge in Azure Cloud.
 
 **Languages**: Fluent in Portuguese; advanced English and basic Spanish.
 
 **Certifications**
+- SFPC - Scrum Foundation Professional Certification
+- Six Sigma Yellow Belt
+- Six Sigma White Belt
 - BIFPC - Business Intelligence Foundation Professional Certification
 - LFS116: PyTorch and Deep Learning for Decision Makers
 - LFS112: Ethics in AI and Data Science
 - IC-PYTHON-860 - Python for Cybersecurity Associate
-- SFPC - Scrum Foundation Professional Certification
-- Six Sigma White Belt
-- Six Sigma Yellow Belt
