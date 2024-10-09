@@ -6,27 +6,51 @@
 
 ### SUMMARY
 
-Looking for opportunities as Backend Engineer (Ruby on Rails, Python), Data Engineer, Data Scientist, Data Analyst. Remote or sponsored visa.
+Looking for opportunities as Backend Engineer (Ruby on Rails, Python), Data Engineer. Remote or sponsored visa.
 
 ### WORK EXPERIENCE
 
-**Senior Data Engineer/Scientist**, 11/2022 to Present
+**Senior Data Science/Engineer Analyst - Ruby on Rails | Python**, 11/2022 to Present
 
 _LongPing High-Tech_
 
-Development of more than 60 projects in data science, data engineering, ruby on rails and python backend development for the deployment of machine learning models, data pipelines and ETL/ELT. Innovative and driven by explore new techniques to address data challenges.
+Work experiences:
+- Data engineering, data science and data analysis;
+- Ruby on Rails REST APIs development;
+- Python for machine learning, scripting and web scraping;
+- Knowledge in Azure Cloud;
+- PostgreSQL and SQLite databases;
+- SQL;
+- ELT and ETL;
+- Git;
+- Software projects and solutions for agribusiness;
+- English;
+- International projects (Brazil-China);
 
-**Data Engineer and Data Science Trainee**, 11/2020 to 11/2022
+**Software Engineer Trainee - Ruby on Rails | Python**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
-Execution of data analysis, BI, data scrapping, ETL projects and ruby on rails/python backend development. Continuous improvement representative of IT department, applying management tools to enhance results and disseminate knowledge.
+Work experiences:
+- Ruby on Rails and FastAPI for REST APIs development;
+- Python for scripting and web scraping;
+- PostgreSQL and SQLite databases;
+- SQL;
+- Git;
+- Software projects and solutions for agribusiness;
+- English;
+- International projects (Brazil-China);
 
-**Software Engineer – Java Android and Python**, 04/2019 to 10/2020
+**Software Engineer – Java, Flutter and Python**, 04/2019 to 10/2020
 
 _IZAgro_
 
-Maintenance and development for a mobile application with over 5,000 active users per month. Development of reports based on application analytics data.
+Work experiences:
+- Java;
+- Dart and Flutter;
+- Python for analytics;
+- MySQL and SQLite databases;
+
 
 ### EDUCATION
 
@@ -48,7 +72,7 @@ _Bachelor, Graphic Design_, 01/2011 to 01/2015
 
 _Planting Simulation and Yield Prediction with Machine Learning – LongPing High-Tech_
 
-Machine learning-driven planting simulation model (1 million simulations) that predicts crop yields (Mean Absolute Error = 0.6 tons/ha), thereby supporting hybrid positioning and decision-making processes.  
+Development of a web platform with Ruby on Rails and Vue.js to host a machine learning-driven planting simulation model (1 million simulations) that predicts crop yields (Mean Absolute Error = 0.6 tons/ha), thereby supporting hybrid positioning and decision-making processes.
 
 **Efficiency and Innovation Award,** 08/2022
 
@@ -68,7 +92,8 @@ Solid skills in python and ruby programming, with focus on its applications in *
 
 Experience with web development frameworks like Ruby on Rails and FastAPI for building REST APIs.
 
-Experience in data engineering, data science & analytics, machine learning, SQL, git, and PowerBI.
+Experience in data engineering, data science, SQL, git.
+
 Basic knowledge in Azure Cloud.
 
 **Languages**: Fluent in Portuguese; advanced English and basic Spanish.
@@ -78,6 +103,5 @@ Basic knowledge in Azure Cloud.
 - Six Sigma Yellow Belt
 - Six Sigma White Belt
 - BIFPC - Business Intelligence Foundation Professional Certification
-- LFS116: PyTorch and Deep Learning for Decision Makers
 - LFS112: Ethics in AI and Data Science
 - IC-PYTHON-860 - Python for Cybersecurity Associate
