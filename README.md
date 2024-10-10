@@ -6,7 +6,7 @@
 
 ### SUMMARY
 
-Looking for opportunities as Backend Engineer (Ruby on Rails, Python), Data Engineer. Remote or sponsored visa.
+Looking for opportunities as Backend Engineer (Ruby on Rails, Python - FastAPI), Data Engineer. Remote or sponsored visa.
 
 ### WORK EXPERIENCE
 
