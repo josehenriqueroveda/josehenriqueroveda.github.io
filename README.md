@@ -6,7 +6,7 @@
 
 ### SUMMARY
 
-Looking for opportunities as Backend Engineer (Ruby on Rails, Python - FastAPI), Data Engineer. Remote or sponsored visa.
+Looking for opportunities as Backend Engineer (Ruby on Rails, Python - FastAPI, Entry, Junior, Mid Level), Data Engineer. Remote or sponsored visa.
 
 ### WORK EXPERIENCE
 
@@ -15,17 +15,17 @@ Looking for opportunities as Backend Engineer (Ruby on Rails, Python - FastAPI),
 _LongPing High-Tech_
 
 Work experiences:
-- Data engineering, data science and data analysis;
-- Ruby on Rails REST APIs development;
-- Python for machine learning, scripting and web scraping;
+- Solid experience in programming with Ruby on Rails and Python;
+- Experience with Test-Driven Development (TDD), using RSpec.
+- RSwag for documentation
+- Frontend knowledge (Vue.js, Hotwire);
+- Data engineering and data science;
 - Knowledge in Azure Cloud;
 - PostgreSQL and SQLite databases;
 - SQL;
-- ELT and ETL;
 - Git;
-- Software projects and solutions for agribusiness;
 - English;
-- International projects (Brazil-China);
+- International projects;
 
 **Software Engineer Trainee - Ruby on Rails | Python**, 11/2020 to 11/2022
 
