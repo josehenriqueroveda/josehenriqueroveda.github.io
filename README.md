@@ -10,18 +10,18 @@ Looking for opportunities as Backend Engineer (Ruby on Rails, Python - FastAPI, 
 
 ### WORK EXPERIENCE
 
-**Senior Data Science/Engineer Analyst - Ruby on Rails | Python**, 11/2022 to Present
+**Senior Data Engineer/Scientist - Python | Ruby on Rails**, 11/2022 to Present
 
 _LongPing High-Tech_
 
 Work experiences:
-- Solid experience in programming with Ruby on Rails and Python;
-- Experience with Test-Driven Development (TDD), using RSpec.
-- RSwag for documentation
-- Frontend knowledge (Vue.js, Hotwire);
 - Data engineering and data science;
-- Knowledge in Azure Cloud;
+- Solid experience in programming with Python;
+- Ruby on Rails;
+- Test-Driven Development (TDD), using RSpec.
+- RSwag for documentation
 - PostgreSQL and SQLite databases;
+- Knowledge in Azure Cloud;
 - SQL;
 - Git;
 - English;
