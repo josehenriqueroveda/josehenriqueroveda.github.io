@@ -10,7 +10,7 @@ Looking for opportunities as Backend Engineer (Ruby on Rails, Python - FastAPI, 
 
 ### WORK EXPERIENCE
 
-**Senior Data Engineer/Scientist - Python | Ruby on Rails**, 11/2022 to Present
+**Senior Data Engineer/Scientist - Python, SQL, Ruby on Rails**, 11/2022 to Present
 
 _LongPing High-Tech_
 
@@ -27,7 +27,7 @@ Work experiences:
 - English;
 - International projects;
 
-**Software Engineer Trainee - Ruby on Rails | Python**, 11/2020 to 11/2022
+**Software Engineer Trainee - Ruby on Rails, Python, SQL**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
@@ -41,7 +41,7 @@ Work experiences:
 - English;
 - International projects (Brazil-China);
 
-**Software Engineer – Java, Flutter and Python**, 04/2019 to 10/2020
+**Software Engineer – Java, Flutter, Python, SQL**, 04/2019 to 10/2020
 
 _IZAgro_
 
