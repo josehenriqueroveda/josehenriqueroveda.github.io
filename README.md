@@ -66,7 +66,7 @@ _Technologist, System Analysis and Development_, 01/2016 to 01/2019
 
 _Bachelor, Graphic Design_, 01/2011 to 01/2015
 
-**LEADERSHIP, ACHIEVEMENTS AND RECOGNITION**
+### LEADERSHIP, ACHIEVEMENTS AND RECOGNITION
 
 **President Award,** 04/2023
 
