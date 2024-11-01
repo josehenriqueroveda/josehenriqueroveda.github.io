@@ -10,7 +10,7 @@ Looking for opportunities as **Frontend Developer** (Entry, Junior, Mid Level). 
 
 ### WORK EXPERIENCE
 
-**Senior Data Engineer/Scientist  - Python | SQL | Frontend Development**, 11/2022 to Present
+**Senior Data Engineer/Scientist  - Python, SQL, Frontend Development**, 11/2022 to Present
 
 _LongPing High-Tech_
 
@@ -29,7 +29,7 @@ Work experiences:
 - English;
 - International projects (Brazil-China);
 
-**Software Engineer Trainee - Frontend Development | HTML | CSS | Javascript | Python**, 11/2020 to 11/2022
+**Software Engineer Trainee - Frontend Development, HTML, CSS, Javascript, Python**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
@@ -56,7 +56,7 @@ Work experiences:
 - Python for analytics;
 - MySQL and SQLite databases;
 
-**Graphic Designer - UI | UX**, 01/2011 to 12/2018
+**Graphic Designer - UI, UX**, 01/2011 to 12/2018
 
 _Freelancer_
 
