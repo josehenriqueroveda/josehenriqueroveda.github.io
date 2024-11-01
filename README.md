@@ -6,33 +6,37 @@
 
 ### SUMMARY
 
-Looking for opportunities as Backend Engineer (Ruby on Rails, Python - FastAPI, Entry, Junior, Mid Level), Data Engineer. Remote or sponsored visa.
+Looking for opportunities as **Frontend Developer** (Entry, Junior, Mid Level). Remote or sponsored visa.
 
 ### WORK EXPERIENCE
 
-**Senior Data Engineer/Scientist - Python, SQL, Ruby on Rails**, 11/2022 to Present
+**Senior Data Engineer/Scientist  - Python | SQL | Frontend Development**, 11/2022 to Present
 
 _LongPing High-Tech_
 
+Led the development of robust data engineering, data science solutions, RESTful APIs and web applications, facilitating data-driven decision-making for agribusiness.
 Work experiences:
-- Data engineering and data science;
-- Solid experience in programming with Python;
-- Ruby on Rails;
-- Test-Driven Development (TDD), using RSpec.
-- RSwag for documentation
-- PostgreSQL and SQLite databases;
+- Data engineering, data science and data analysis;
+- FastAPI REST APIs development;
+- React for Frontend Development;
+- Python for machine learning, scripting and web scraping;
 - Knowledge in Azure Cloud;
+- PostgreSQL and SQLite databases;
 - SQL;
+- ELT and ETL;
 - Git;
+- Software projects and solutions for agribusiness;
 - English;
-- International projects;
+- International projects (Brazil-China);
 
-**Software Engineer Trainee - Ruby on Rails, Python, SQL**, 11/2020 to 11/2022
+**Software Engineer Trainee - Frontend Development | HTML | CSS | Javascript | Python**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
+Developed responsive web applications with a focus on delivering seamless user interfaces for agricultural solutions.
 Work experiences:
-- Ruby on Rails and FastAPI for REST APIs development;
+- FastAPI for REST APIs development;
+- HTML, CSS, Javacript for frontend development
 - Python for scripting and web scraping;
 - PostgreSQL and SQLite databases;
 - SQL;
@@ -45,12 +49,24 @@ Work experiences:
 
 _IZAgro_
 
+Developed mobile solutions using Java and Flutter, focusing on responsive and user-friendly interfaces. Leveraged Python for analytics and database management, contributing to data-informed development processes.
 Work experiences:
 - Java;
 - Dart and Flutter;
 - Python for analytics;
 - MySQL and SQLite databases;
 
+**Graphic Designer - UI | UX**, 01/2011 to 12/2018
+
+_Freelancer_
+
+Specialized in UI/UX design for web projects, applying design principles to create visually appealing and intuitive user interfaces. Gained expertise in HTML, CSS, and JavaScript, building a foundation in web design that enhances my current development work.
+Work experiences: 
+- Web Design;
+- HTML;
+- CSS;
+- Javascript;
+- UI/UX;
 
 ### EDUCATION
 
@@ -88,11 +104,17 @@ Awarded for best academic performance and by the project published in the 18th N
 
 ### CERTIFICATIONS, COMPETENCIES AND SKILLS
 
-Solid skills in python and ruby programming, with focus on its applications in **backend**. 
+- Javascript, Typescript, HTML, CSS;
+- React, Next.js;
+- UI/UX;
+- Data engineering and data science;
+- Python, FastAPI;
+- Test-Driven Development (TDD);
+- PostgreSQL and SQLite databases;
+- Knowledge in Azure Cloud;
+- Git;
+- Github;
 
-Experience with web development frameworks like Ruby on Rails and FastAPI for building REST APIs.
-
-Experience in data engineering, data science, SQL, git.
 
 Basic knowledge in Azure Cloud.
 
@@ -103,5 +125,3 @@ Basic knowledge in Azure Cloud.
 - Six Sigma Yellow Belt
 - Six Sigma White Belt
 - BIFPC - Business Intelligence Foundation Professional Certification
-- LFS112: Ethics in AI and Data Science
-- IC-PYTHON-860 - Python for Cybersecurity Associate
