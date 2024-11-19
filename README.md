@@ -6,11 +6,11 @@
 
 ### SUMMARY
 
-Looking for opportunities as **Frontend Developer** (Entry, Junior, Mid Level). Remote or sponsored visa.
+Looking for opportunities as **Frontend Developer - React.js and Next.js** (Entry, Junior, Mid Level). Remote or sponsored visa.
 
 ### WORK EXPERIENCE
 
-**Senior Data Engineer/Scientist  - Python, SQL, Frontend Development**, 11/2022 to Present
+**Senior Data Engineer/Scientist  - Python, SQL, Frontend Development, React**, 11/2022 to Present
 
 _LongPing High-Tech_
 
@@ -29,7 +29,7 @@ Work experiences:
 - English;
 - International projects (Brazil-China);
 
-**Software Engineer Trainee - Frontend Development, HTML, CSS, Javascript, Python**, 11/2020 to 11/2022
+**Software Engineer Trainee - Frontend Development, HTML, CSS, Javascript, React**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
@@ -106,14 +106,15 @@ Awarded for best academic performance and by the project published in the 18th N
 
 - Javascript, Typescript, HTML, CSS;
 - React, Next.js;
-- UI/UX;
+- UI / UX;
 - Data engineering and data science;
 - Python, FastAPI;
-- Test-Driven Development (TDD);
 - PostgreSQL and SQLite databases;
-- Knowledge in Azure Cloud;
+- Test-Driven Development (TDD);
+- Vercel;
 - Git;
 - Github;
+- Figma;
 
 
 Basic knowledge in Azure Cloud.
