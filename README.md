@@ -116,9 +116,6 @@ Awarded for best academic performance and by the project published in the 18th N
 - Github;
 - Figma;
 
-
-Basic knowledge in Azure Cloud.
-
 **Languages**: Fluent in Portuguese; advanced English and basic Spanish.
 
 **Certifications**
