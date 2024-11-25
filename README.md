@@ -8,19 +8,24 @@
 
 Looking for opportunities as **Frontend Developer - React.js and Next.js** (Entry, Junior, Mid Level). Remote or sponsored visa.
 
+### ABOUT ME
+
+As a Frontend Developer with a strong foundation in data-driven development, I bring a unique blend of UI/UX insight and technical skills to my work. My experience spans frontend technologies like React, JavaScript, HTML, and CSS, as well as backend frameworks (FastAPI, Next.js) and a background in data analysis and engineering. With over five years of experience in the tech industry, I am dedicated to creating intuitive, user-centered digital experiences and am constantly evolving my knowledge in frontend development. My goal is to contribute to innovative, impactful projects, focusing on building responsive, engaging interfaces that enhance user experience and bridge the gap between design and functionality.
+
+Fast learner, good in troubleshooting and eager to collaborate on impactful projects.
+
 ### WORK EXPERIENCE
 
 **Senior Data Engineer/Scientist  - Python, SQL, Frontend Development, React**, 11/2022 to Present
 
 _LongPing High-Tech_
 
-Led the development of robust data engineering, data science solutions, RESTful APIs and web applications, facilitating data-driven decision-making for agribusiness.
+Led the development of robust data engineering, data science solutions and frontend web applications development, facilitating data-driven decision-making for agribusiness.
 Work experiences:
 - Data engineering, data science and data analysis;
 - FastAPI REST APIs development;
 - React for Frontend Development;
 - Python for machine learning, scripting and web scraping;
-- Knowledge in Azure Cloud;
 - PostgreSQL and SQLite databases;
 - SQL;
 - ELT and ETL;
@@ -88,13 +93,13 @@ _Bachelor, Graphic Design_, 01/2011 to 01/2015
 
 _Planting Simulation and Yield Prediction with Machine Learning – LongPing High-Tech_
 
-Development of a web platform with Ruby on Rails and Vue.js to host a machine learning-driven planting simulation model (1 million simulations) that predicts crop yields (Mean Absolute Error = 0.6 tons/ha), thereby supporting hybrid positioning and decision-making processes.
+Development of a web platform with React.js to host a machine learning-driven planting simulation model that predicts crop yields, thereby supporting hybrid positioning and decision-making processes.
 
 **Efficiency and Innovation Award,** 08/2022
 
 _ETL Migration – LongPing High-Tech_
 
-Data engineering project to migrate data pipelines from a paid tool to Talend Open Studio, resulting in annual savings of $40,000.  
+Data engineering project to migrate data pipelines from a paid tool to open source tools and python, resulting in annual savings of $40,000.  
 
 **Outstanding Completion Work and Best Academic Performance,** 01/2019
 
@@ -104,7 +109,7 @@ Awarded for best academic performance and by the project published in the 18th N
 
 ### CERTIFICATIONS, COMPETENCIES AND SKILLS
 
-- Javascript, Typescript, HTML, CSS;
+- Javascript, HTML, CSS;
 - React, Next.js;
 - UI / UX;
 - Data engineering and data science;
