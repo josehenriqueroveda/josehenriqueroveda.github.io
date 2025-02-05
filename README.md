@@ -6,15 +6,15 @@
 
 ## SUMMARY
 
-Looking for opportunities as **Frontend Developer - React.js and Next.js** (Entry, Junior, Mid-Level). Remote or sponsored visa.
+Looking for opportunities as **Software Engineer (Frontend, Backend or FullStack) - React.js, Next.js, Python, FastAPI**. Remote or sponsored visa.
 
 ## ABOUT ME
 
-As a Frontend Developer with a strong foundation in data-driven development, I bring a unique blend of UI/UX insight and technical skills to my work. My experience spans frontend technologies like React, JavaScript, HTML, and CSS, as well as backend frameworks (FastAPI, Next.js) and a background in data analysis and engineering. With over five years of experience in the tech industry, I am dedicated to creating intuitive, user-centered digital experiences and am constantly evolving my knowledge in frontend development. My goal is to contribute to innovative, impactful projects, focusing on building responsive, engaging interfaces that enhance user experience and bridge the gap between design and functionality.
+As a FullStack Software Engineer with a strong foundation in data-driven development, I bring a unique blend of UI/UX insight and technical skills to my work. My experience spans frontend technologies like React, JavaScript, HTML, and CSS, as well as backend frameworks (FastAPI, Next.js) and a background in data analysis and engineering. With over five years of experience in the tech industry, I am dedicated to creating intuitive, user-centered digital experiences and am constantly evolving my knowledge in frontend development. My goal is to contribute to innovative, impactful projects, focusing on building responsive, engaging interfaces that enhance user experience and bridge the gap between design and functionality.
 
 ## WORK EXPERIENCE
 
-**Senior Data Engineer/Scientist - Python, SQL, Frontend Development, React**, 11/2022 to Present
+**Senior Data Science Analyst - Python, SQL, React, Next.js**, 11/2022 to Present
 
 _LongPing High-Tech_
 
