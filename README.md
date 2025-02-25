@@ -6,35 +6,35 @@
 
 ## SUMMARY
 
-Looking for opportunities as **Software Engineer (Frontend, Backend or FullStack) - React.js, Next.js, Python, FastAPI**. Remote or sponsored visa.
+Open to remote or hybrid opportunities abroad as **Software Engineer (Frontend, Backend or FullStack) - React.js, Next.js, Python, FastAPI**. Remote or sponsored visa.
 
 ## ABOUT ME
 
-As a FullStack Software Engineer with a strong foundation in data-driven development, I bring a unique blend of UI/UX insight and technical skills to my work. My experience spans frontend technologies like React, JavaScript, HTML, and CSS, as well as backend frameworks (FastAPI, Next.js) and a background in data analysis and engineering. With over five years of experience in the tech industry, I am dedicated to creating intuitive, user-centered digital experiences and am constantly evolving my knowledge in frontend development. My goal is to contribute to innovative, impactful projects, focusing on building responsive, engaging interfaces that enhance user experience and bridge the gap between design and functionality.
+I am a passionate Software Engineer specializing in Fullstack Development and Data Science, with experience in React.js, Next.js, JavaScript, and Python. With over five years of experience in the tech industry, I build applications that merge data-driven development and UI/UX principles to create intuitive and intelligent Web AI applications.
 
 ## WORK EXPERIENCE
 
-**Senior Data Science Analyst - Python, SQL, React, Next.js**, 11/2022 to Present
+**Senior Data Science Analyst**, 11/2022 to Present
 
 _LongPing High-Tech_
 
-Led the development of robust data engineering, data science solutions and frontend web applications development, facilitating data-driven decision-making for agribusiness.
+Led the development of robust data engineering, data science solutions, web applications and APIs development for data visualization and AI-powered insights. 
 
-**Software Engineer Trainee - Frontend Development, HTML, CSS, Javascript, React**, 11/2020 to 11/2022
+**Software Engineer Trainee**, 11/2020 to 11/2022
 
 _LongPing High-Tech_
 
-Developed responsive web applications with a focus on delivering seamless user interfaces for agricultural solutions.
+Collaborated on data-driven projects, applying machine learning insights to frontend interfaces. 
 
-**Software Engineer – Java, Flutter, Python, SQL**, 04/2019 to 10/2020
+**Software Engineer**, 04/2019 to 10/2020
 
 _IZAgro_
 
-Developed mobile solutions using Java and Flutter, focusing on responsive and user-friendly interfaces. Leveraged Python for analytics and database management, contributing to data-informed development processes.
+Created mobile applications using Java and Flutter for agricultural management. Leveraged Python for analytics and database management, contributing to data-informed development processes
 
 **Graphic Designer - UI, UX**, 01/2011 to 12/2018
 
-Specialized in UI/UX design for web projects, applying design principles to create visually appealing and intuitive user interfaces. Gained expertise in HTML, CSS, and JavaScript, building a foundation in web design that enhances my current development work.
+Specialized in UI/UX design for web projects, designed user-centric web interfaces, enhancing usability and accessibility.
 
 ## EDUCATION
 
@@ -54,7 +54,7 @@ _Bachelor, Graphic Design_, 01/2011 to 01/2015
 
 **President Award,** 04/2023 - _Planting Simulation and Yield Prediction with Machine Learning – LongPing High-Tech_
 
-Development of a web platform with React.js to host a machine learning-driven planting simulation model that predicts crop yields, thereby supporting hybrid positioning and decision-making processes.
+Development of a web platform with React.js to host a machine learning planting simulation model that predicts crop yields for more than 1 million virtual fields, thereby supporting hybrid positioning and decision-making processes.
 
 **Efficiency and Innovation Award,** 08/2022 - _ETL Migration – LongPing High-Tech_
 
@@ -67,8 +67,8 @@ Awarded for best academic performance and by the project published in the 18th N
 ## CERTIFICATIONS, COMPETENCIES AND SKILLS 
 
 *   Javascript, HTML, CSS, React, Next.js;
-*   UI / UX, Figma;
 *   Python, FastAPI, Data Science and Data Engineering;
+*   UI / UX, Figma;
 *   PostgreSQL and SQLite databases;
 *   Test-Driven Development (TDD);
 *   Git and Github;
