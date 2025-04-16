@@ -1,78 +1,92 @@
-**José Henrique Roveda**
+# José Henrique Roveda
 
-[josehenriqueroveda.dev@gmail.com](mailto:josehenriqueroveda.dev@gmail.com) - Ribeirão Preto, SP, Brazil
+_Data Scientist_
 
-[https://linkedin.com/in/jhroveda](https://linkedin.com/in/jhroveda) - [https://github.com/josehenriqueroveda](https://github.com/josehenriqueroveda)
+**Location:** Ribeirão Preto, São Paulo, Brazil | **Phone:** +55 16 991565494 | **Email:** [josehenriqueroveda.dev@gmail.com](mailto:josehenriqueroveda.dev@gmail.com)
 
-## SUMMARY
+**LinkedIn**: [linkedin.com/in/](http://www.linkedin.com/in/name-surname)[jhroveda](http://jhroveda) | **Portfolio:** <www.github.com/josehenriqueroveda>
 
-Open to remote or hybrid opportunities abroad as **Data Scientist, Data Engineer and Data Analyst**. Remote or sponsored visa.
+### SUMMARY
 
-## WORK EXPERIENCE
+Data Scientist with over 4 years of experience leading data science projects with real business impact. Strong skills in Python and SQL, building ML models, computer vision systems, data pipelines and AI agents. Experienced in developing end-to-end solutions, from data engineering to insightful dashboards and APIs. Strong communication skills and ability to collaborate across technical and business teams.
 
-**Senior Data Scientist**, 11/2022 to Present
+### SKILLS
 
-_LongPing High-Tech_
+**Proficient:** Python, SQL, FastAPI, Data Storytelling, ETL, FastAPI, YOLO, Forecasting, Scikit-learn, matplotlib, pandas, polars, numpy.
 
-Led the development of robust data engineering, data science solutions, REST APIs and web applications development, facilitating data-driven decision-making for agribusiness. 
+**Intermediate:** LLMs, NLP, AI Agents, Power BI, Apache Airflow, PyTorch, Plotly, seaborn, PostgreSQL.
 
-**Data Science Trainee**, 11/2020 to 11/2022
+**Beginner:** Azure Cloud, AWS, Databricks, Spark, tensorflow.
 
-_LongPing High-Tech_
+### PROFESSIONAL EXPERIENCE
 
-Developing reports with Power BI, extracting, cleaning, transforming and ingesting data with Python, task automation scripts.
+**Senior Data Scientist**
 
-**Software Engineer**, 04/2019 to 10/2020
+LongPing High-Tech 11/2020 to Present
 
-_IZAgro_
+**Core Responsibilities:**
 
-Developed mobile solutions using Java and Flutter, focusing on responsive and user-friendly interfaces. Leveraged Python for analytics and database management, contributing to data-informed development processes.
+I started as a Data Science Trainee, where I gained in-depth knowledge in machine learning, AI, data analysis, and business intelligence, contributing to development of data-driven solutions.
 
-**Graphic Designer - UI, UX**, 01/2011 to 12/2018
+- As Senior Data Scientist I have:
+  - Developed ML models to estimate corn yield with MAE ~600kg/ha.
+  - Built time-series models to forecast sales volumes and commodity prices (6-month horizon with 80-90% CI).
+  - Applied YOLO-based computer vision models to detect seed infestation, reducing process time and costs by over 90%.
+  - Created an LLM-based agent to suggest lab tests from technician field comments, reducing decision time by 30%.
+- As Data Science Trainee I have:
+  - Migrated data engineering platform to open-source stack, saving over $60,000 per year.
+  - Created Power BI dashboards and SQL queries to identify key customer profiles responsible for 80% of revenue, supporting commercial strategy.
 
-Specialized in UI/UX design for web projects, designed user-centric web interfaces, enhancing usability and accessibility.
+**Key Technologies and Tools:** Python, Artificial Intelligence, Computer Vision, Large Language Models, Machine Learning, Pandas, Power BI, Apache Airflow, Data Visualization, PostgreSQL.
 
-## EDUCATION
 
-**USP ESALQ - Universidade de São Paulo**
+**Software Engineer**
 
-_MBA, Data Science and Analytics_, 05/2021 to 11/2022
+IZAgro 04/2019 to 10/2020
 
-**FATEC – Faculdade de Tecnologia**
+**Core Responsibilities:**
 
-_Technologist, System Analysis and Development_, 01/2016 to 01/2019
+- Developed and maintained mobile features for an app with 60,000+ users.
+- Built analytics reports using Google Analytics data.
 
-**UNIFRAN – Universidade de Franca**
+**Key Technologies and Tools:** Java, SQL, Python, Databases.
 
-_Bachelor, Graphic Design_, 01/2011 to 01/2015
+### EDUCATION
 
-## LEADERSHIP, ACHIEVEMENTS AND RECOGNITION
+**MBA in Data Science & Analytics**
 
-**President Award,** 04/2023 - _Planting Simulation and Yield Prediction with Machine Learning – LongPing High-Tech_
+USP/ESALQ, São Paulo, Brazil 05/2021 to 11/2022
 
-Development of an AI-driven platform for predictive analytics by a machine learning planting simulation model that predicts crop yields for more than 1 million virtual fields, thereby supporting hybrid positioning and decision-making processes.
+- **Relevant info:** Final project nominated for best MBA capstone (grade: 10.0).
+- **Thesis:** ML models to predict maize yield and guide hybrid positioning.
 
-**Efficiency and Innovation Award,** 08/2022 - _ETL Migration – LongPing High-Tech_
 
-Data engineering project to migrate data pipelines from a paid tool to open-source tools and python, resulting in annual savings of $40,000.
+**Technologist in System Analysis and Development**
 
-**Outstanding Completion Work and Best Academic Performance,** 01/2019 - _Development of a Mobile App for Managing Agricultural Spraying – FATEC_
+FATEC, São Paulo, Brazil 01/2016 to 01/2019
 
-Awarded for best academic performance and by the project published in the 18th National Congress of Scientific Initiation.
+- **Relevant info:** Awarded "Top Class Performance" and "Best Graduation Thesis".
+- **Thesis:** Mobile app for managing agricultural spraying.
 
-## CERTIFICATIONS, COMPETENCIES AND SKILLS 
 
-*   Python (Machine Learning, FastAPI, LLM, AI)
-*   Data Engineering (ETL Pipelines, Big Data)
-*   SQL (PostgreSQL, SQLite, Data Warehousing)
-*   Data Visualization (Power BI)
-*   Git and Github
+**Bachelor in Graphic Design**
 
-**Languages**: Fluent in Portuguese; advanced English and basic Spanish.
+Universidade de Franca, São Paulo, Brazil 01/2011 to 01/2015
 
-**Certifications**
+- **Thesis:** UI design for guitar learning app.
 
-*   SFPC - Scrum Foundation Professional Certification;
-*   Six Sigma Yellow Belt;
-*   Six Sigma White Belt;
-*   BIFPC - Business Intelligence Foundation Professional Certification;
+### CERTIFICATES/COURSES
+
+**Business Intelligence Foundation Professional Certification,** Certiprof Aug/2024
+
+**Six Sigma Yellow Belt,** 6sigmastudy Sep/2024
+
+**Scrum Foundation Professional Certification,** Certiprof Sep/2024
+
+### LANGUAGES
+
+**Portuguese:** Fluent/Native.
+
+**English:** Advanced.
+
+**Spanish**: Basic.
